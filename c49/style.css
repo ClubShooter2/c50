@@ -1,0 +1,15 @@
+h1{
+    color:brown
+}
+
+.header{
+    background-color: darkgoldenrod;
+    display: flex;
+    justify-content: space-around;
+}
+.games{
+    background-color:chartreuse;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
